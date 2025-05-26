@@ -3,8 +3,8 @@
 sequenceDiagram
  participant Attacker
  participant BotNet
- participant WebServer
  participant Firewall
+ participant WebServer
  participant IT Team
 
 Attacker->>BotNet: BOTS ASSEMBLE!!!
