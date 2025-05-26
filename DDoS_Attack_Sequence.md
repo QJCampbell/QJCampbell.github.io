@@ -13,7 +13,7 @@ BotNet-->>Attacker: here boss
 loop every second
  Attacker->>BotNet: Send syn packets to Webserver
 end
-BotNet-->Attacker: sending syn packets
+BotNet--xFirewall: sending syn packets
 Note right of Firewall: Influx of irregular IP addresses noticed on IDS.<br/>This would be the start of detection.
 critical Maintain established connection with WebServer
  Firewall-->Webserver: connect
