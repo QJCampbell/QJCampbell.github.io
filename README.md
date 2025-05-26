@@ -2,7 +2,7 @@
 
 Hello my name is Quintin Campbell. I am a Husband, father of 3, and student of Wake Tech. This is an account used for school and will be used to experiment with different styles of Markdown languages as of now. If needed, you can reach me by email. qjcampbell@my.waketech.edu
 
-##Interests and hobbies
+## Interests and hobbies
 
 I have a few different  hobbies and activities that I have outside of school and work. As I learn new things, this list gets longer.
 * Bowling
