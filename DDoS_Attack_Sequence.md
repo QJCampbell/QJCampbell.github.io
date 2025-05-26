@@ -20,7 +20,7 @@ critical Maintain established connection with WebServer
  Firewall-->Webserver: verified packets
 end
 BotNet--xFirewall: packets being sent
-note left of Firewall: system is blocking first batch<br/>of IP's being sent to server.
+note left of Firewall: system is blocking second batch<br/>of IP's being sent to server.
 note right of BotNet: Changes IP addresses and keeps trying
 BotNet-->Firewall: packets being sent
 note right of Firewall: System can not handle the flood of<br/>incoming requests from the Botnet attack.
