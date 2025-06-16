@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>The Introduction of Quintin</title>
+    <style>
+    body {background-color:9E93C0;}
+    h1 {color:E18F14;}
+    p{color:2C2426;}
+    </style>
+</head>
+<body>
+  <h1>My name is Quintin</h1>
+    <p>I am a cybersecurity student at Wake Tech. I enjoy networking the most so far in my journey of cybersecurity. When I'm at home, I usually unwind by working on cars, watching anime, family time with kids and wife, and reading a book occasionally.</p>
+</body>
+
+
+</html>
